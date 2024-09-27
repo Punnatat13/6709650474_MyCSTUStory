@@ -132,3 +132,20 @@ section::after {
     padding: 20px;
     text-align: center;
 }
+.future-goal{
+    background-color: white;
+    box-shadow: 0 0 10px rgb(0, 0, 0 ,0.1);
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 1%;
+    padding-left: 20px;
+}
+.img-future img{
+    border-radius: 8px;
+    width: 30%;
+    box-shadow: 0 0 10px rgb(0, 0, 0 ,0.1);
+}
+.img-future{
+    text-align: center;
+    padding: 20px;
+}
